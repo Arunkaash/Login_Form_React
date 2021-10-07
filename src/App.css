@@ -62,3 +62,10 @@ form{
   justify-content: center;
   align-items: center;
 }
+.errmsg{
+  color: red;
+  font-size: 12px;
+  align-self: flex-start;
+  margin: 10px;
+  margin-left: 75px;
+}
